@@ -26,9 +26,9 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 ## Contact
 
-	•	Website: kalp-studio.com
-	•	Email: support@kalp-studio.com
-	•	Twitter: @KalpStudio
-	•	Discord: Join our community
+- Website: kalp.studio.com
+- Email: support@kalp.studio.com
+- Twitter: @Kalp_Studio
+- Discord: Join our community
 
 Empower your blockchain development with Kalp Studio.
