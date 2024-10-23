@@ -18,7 +18,7 @@ Start developing your blockchain applications with [Kalp Studio](https://www.kal
 
 ## Documentation
 
-For detailed information on how to use Kalp Studio, please visit our official documentation.
+For detailed information on how to use Kalp Studio, please visit our [official documentation](https://docs.kalp.studio/).
 
 ## License
 
